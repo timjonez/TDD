@@ -1,0 +1,6 @@
+db.sqlite3
+geckodriver.log
+Pipfile
+Pipfile.lock
+__pycache__
+*.pyc
